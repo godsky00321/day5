@@ -18,6 +18,9 @@
         <a class="nav-link" href="#">mac</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#">ei</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#">zi</a>
       </li>
       <li class="nav-item">
