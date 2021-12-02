@@ -15,7 +15,7 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">ei</a>
+        <a class="nav-link" href="#">mac</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">zi</a>
